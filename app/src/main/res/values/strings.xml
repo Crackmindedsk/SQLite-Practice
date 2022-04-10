@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SqlitExp</string>
+    <string name="enter_email_hint">Enter Email</string>
+    <string name="enter_password_hint">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
